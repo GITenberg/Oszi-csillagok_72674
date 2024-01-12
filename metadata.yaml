@@ -1,0 +1,42 @@
+_repo: Oszi-csillagok_72674
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Ács, Géza
+    gutenberg_agent_id: '56774'
+    url: http://www.gutenberg.org/2009/agents/56774
+creator:
+  author:
+    agent_name: Hamsun, Knut
+    aliases:
+    - Gamsun, Knut
+    - Hamsund, Knut Pedersen
+    - Pedersen, Knut
+    - Thode, Knut
+    birthdate: 1859
+    deathdate: 1952
+    gutenberg_agent_id: '2376'
+    url: http://www.gutenberg.org/2009/agents/2376
+    wikipedia:
+    - https://no.wikipedia.org/wiki/Knut_Hamsun
+    - https://fi.wikipedia.org/wiki/Knut_Hamsun
+    - https://en.wikipedia.org/wiki/Knut_Hamsun
+description: ''
+gutenberg_issued: '2024-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72674'
+language: hu
+pgterms:marc905: 20240106012459hamsun
+pgterms:marc906: '1923'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Hungarian
+  Electronic Library
+publication_note: '  $aBudapest :$bAnonymus, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Őszi csillagok
+url: http://www.gutenberg.org/ebooks/72674
